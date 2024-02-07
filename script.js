@@ -346,6 +346,7 @@ function animate() {
   }
 }
 
+alert("For left Player:\nleft: A\nright:D\njump: W\attack: Space\nFor right Player:\nleft: Arrowleft\nright:Arrowright\njump: Arrowup\attack: Arrowdown")
 animate();
 
 window.addEventListener("keydown", (e) => {
